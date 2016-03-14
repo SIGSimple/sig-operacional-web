@@ -1,0 +1,71 @@
+img.logo {
+	max-width: 100%;
+}
+
+.cls-content {
+	padding-top: 20px !important;
+}
+
+.cls-container {
+	background-color: #064365 !important;
+}
+
+.table th.text-middle,
+.table td.text-middle {
+	vertical-align: middle;
+}
+
+
+
+#mainnav-menu ul a,
+.menu-popover .sub-menu ul a {
+	padding: 10px 20px 12px 35px;
+}
+
+.two-lines {
+	padding-top: 0px !important;
+}
+
+.widget-header.no-image {
+	min-height: inherit;
+}
+
+.img-profile-table {
+	max-height: 50px !important;
+}
+
+.right-bottom-image {
+	max-height: 50px;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	z-index: 100;
+}
+
+iframe {
+	width: 100%;
+	min-height: 500px;
+}
+
+.chosen-container {
+	margin-bottom: 0 !important;
+}
+
+.input-group.date input.form-control {
+	padding: 6px !important;
+}
+
+span.input-group-addon {
+	background-color: #eee;
+}
+
+.modal .modal-body {
+	max-height: 400px !important;
+	overflow-y: scroll;
+}
+
+.widget-header {
+	padding-top: 0px !important;
+}
